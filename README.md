@@ -110,3 +110,33 @@ Four interactive dashboards are included:
 ---
 
 ## 📁 Repository Structure
+
+- **📂 data/**
+  - **📂 raw/** - Raw data (not included due to size)
+    - `download_instructions.txt`
+  - **📂 processed/** - Cleaned CSV files for Tableau
+    - `data_quality.csv`
+    - `demographics.csv`
+    - `confusion_matrix.csv`
+    - `model_performance.csv`
+    - `feature_importance.csv`
+    - `resource_usage.csv`
+    - `model_comparison.csv`
+    - `demographic_summary.csv`
+    - `accuracy_targets.csv`
+    - `time_efficiency.csv`
+
+- **📂 notebooks/**
+  - `BRFSS_Depression_Analysis.ipynb`
+
+- **📂 dashboards/**
+  - `BRFSS_Depression_Report.twb`
+
+- **📂 reports/**
+  - `BRFSS_Depression_Report.pdf`
+
+- **📄 requirements.txt**
+- **📄 README.md**
+- **📄 LICENSE**
+- **📄 .gitignore**
+- **📄 setup.py**
