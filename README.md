@@ -133,7 +133,7 @@ Four interactive dashboards are included:
   - `BRFSS_Depression_Report.twb`
 
 - **📂 reports/**
-  - `BRFSS_Depression_Report.pdf`
+  - `7006SCN_Machine_Learning_and_Big_Data_BRFSS_Depression_Prediction_&_Analysis.pdf`
 
 - **📄 requirements.txt**
 - **📄 README.md**
