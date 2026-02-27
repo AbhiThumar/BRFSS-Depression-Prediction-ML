@@ -1,0 +1,5 @@
+Model,Time_Seconds,Accuracy,Accuracy_per_Second,Efficiency_Rating,Rank
+Decision Tree,2.3,0.8655,0.376,Most Efficient,1
+Logistic Regression,3.1,0.7401,0.239,Efficient,2
+Random Forest,15.1,0.8695,0.058,Balanced,3
+GBT,68,0.8674,0.013,Least Efficient,4

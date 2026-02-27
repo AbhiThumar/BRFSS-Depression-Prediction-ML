@@ -1,0 +1,59 @@
+Category,Group,Depression_Status,Count,Prevalence_Rate,Risk_Level
+Household Income,"$200,000+",Yes,139,1464.388489,Critical
+Household Income,"$50,000-$99,999",Yes,207,2022.608696,Critical
+Household Income,"$35,000-$49,999",Yes,725,1922.951724,Critical
+Household Income,"$100,000-$199,999",Yes,202,1731.237624,Critical
+Household Income,"$25,000-$34,999",Yes,719,2188.303199,Critical
+Household Income,"$50,000-$99,999",No,212,8004.716981,Critical
+Household Income,"$15,000-$24,999",Yes,731,2619.863201,Critical
+Household Income,"$15,000-$24,999",No,742,7404.878706,Critical
+Household Income,"Less than $15,000",Yes,726,3462.658402,Critical
+Household Income,"$25,000-$34,999",No,741,7841.147099,Critical
+Household Income,"$200,000+",No,205,8624.682927,Critical
+Household Income,"Less than $15,000",No,742,6582.371968,Critical
+Household Income,"$100,000-$199,999",No,212,8309.90566,Critical
+Household Income,"$35,000-$49,999",No,742,8099.231806,Critical
+Household Income,"$50,000+",No,530,8590.622642,Critical
+Household Income,"$50,000+",Yes,526,1415.836502,Critical
+Education Attained,H.S. or G.E.D.,No,742,8096.15903,Critical
+Education Attained,Less than H.S.,Yes,709,2431.12835,Critical
+Education Attained,Less than H.S.,No,742,7602.951482,Critical
+Education Attained,H.S. or G.E.D.,Yes,738,1911.219512,Critical
+Education Attained,College graduate,Yes,739,1594.479026,Critical
+Education Attained,Some post-H.S.,Yes,737,2120.040706,Critical
+Education Attained,Some post-H.S.,No,742,7885.902965,Critical
+Education Attained,College graduate,No,742,8409.218329,Critical
+Overall,Overall,No,770,8056.012987,Critical
+Overall,Overall,Yes,769,1945.968791,Critical
+Race/Ethnicity,"Asian, non-Hispanic",Yes,69,954.057971,Critical
+Race/Ethnicity,Hispanic,No,732,8195.396175,Critical
+Race/Ethnicity,"Native Hawaiian or other Pacific Islander, non-Hispanic",No,39,8776.153846,Critical
+Race/Ethnicity,"Other, non-Hispanic",No,417,8214.820144,Critical
+Race/Ethnicity,"Multiracial, non-Hispanic",Yes,415,3012.795181,Critical
+Race/Ethnicity,"Asian, non-Hispanic",No,377,9049.151194,Critical
+Race/Ethnicity,"Black, non-Hispanic",Yes,493,1628.823529,Critical
+Race/Ethnicity,"Native Hawaiian or other Pacific Islander, non-Hispanic",Yes,18,1072.222222,Critical
+Race/Ethnicity,"American Indian or Alaskan Native, non-Hispanic",No,369,7402.03252,Critical
+Race/Ethnicity,"White, non-Hispanic",No,729,7926.090535,Critical
+Race/Ethnicity,"White, non-Hispanic",Yes,715,2092.391608,Critical
+Race/Ethnicity,"American Indian or Alaskan Native, non-Hispanic",Yes,143,2647.832168,Critical
+Race/Ethnicity,"Other, non-Hispanic",Yes,181,1682.762431,Critical
+Race/Ethnicity,"Multiracial, non-Hispanic",No,683,7102.371889,Critical
+Race/Ethnicity,"Black, non-Hispanic",No,614,8358.110749,Critical
+Race/Ethnicity,Hispanic,Yes,550,1772.454545,Critical
+Age Group,18-24,No,742,7933.733154,Critical
+Age Group,25-34,Yes,726,2183.870523,Critical
+Age Group,45-54,Yes,733,2068.540246,Critical
+Age Group,18-24,Yes,690,2134.42029,Critical
+Age Group,65+,Yes,731,1466.566347,Critical
+Age Group,45-54,No,742,7944.568733,Critical
+Age Group,25-34,No,742,7843.059299,Critical
+Age Group,55-64,No,742,7915.768194,Critical
+Age Group,65+,No,742,8540.727763,Critical
+Age Group,35-44,No,742,7968.706199,Critical
+Age Group,35-44,Yes,729,2049.053498,Critical
+Age Group,55-64,Yes,735,2094.979592,Critical
+Sex,Male,Yes,737,1434.056988,Critical
+Sex,Male,No,742,8568.625337,Critical
+Sex,Female,Yes,741,2436.491228,Critical
+Sex,Female,No,742,7565.579515,Critical

@@ -1,0 +1,5 @@
+Actual,Predicted,Count,Type,Percentage,Description
+Actual Yes,Predicted Yes,2696,True Positives,41.10382680286629,Correctly predicted depression
+Actual Yes,Predicted No,433,False Negatives,6.601616100015247,Missed depression cases
+Actual No,Predicted Yes,436,False Positives,6.647354779692026,False alarms
+Actual No,Predicted No,2994,True Negatives,45.64720231742644,Correctly predicted no depression

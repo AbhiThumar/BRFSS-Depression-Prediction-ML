@@ -1,0 +1,8 @@
+Metric,Count,Percentage,Status,Notes
+Total Dataset Records,2996473,100,,Complete dataset
+Depression Records,33833,100,,Filtered data
+Training Records,27274,80.6136021,,80/20 split
+Test Records,6559,19.3863979,,80/20 split
+Yes Responses,16073,47.50687199,,47.5% of depression data
+No Responses,17760,52.49312801,,52.5% of depression data
+Missing Values,245,0.008176279,,0.01% of total

@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1,Train_Time,Rank,Medal,Description
+Random Forest,0.8695,0.8695,0.8695,0.8695,15.1,1,Gold,Best overall accuracy
+GBT,0.8674,0.8674,0.8674,0.8674,68.0,2,Silver,Good but slow
+Decision Tree,0.8655,0.8655,0.8655,0.8655,2.3,3,Bronze,Fast & accurate
+Logistic Regression,0.7401,0.74,0.739,0.7388,3.1,4,Baseline,Fast but less accurate

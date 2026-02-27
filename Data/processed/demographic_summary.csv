@@ -1,0 +1,30 @@
+Category,Group,Count,Prevalence_Rate,Risk_Category
+Age Group,18-24,1432,5034.076722,Critical
+Age Group,25-34,1468,5013.464911,Critical
+Age Group,35-44,1471,5008.879849,Critical
+Age Group,45-54,1475,5006.554489,Critical
+Age Group,55-64,1477,5005.373893,Critical
+Age Group,65+,1473,5003.647055,Critical
+Education Attained,College graduate,1481,5001.848677,Critical
+Education Attained,H.S. or G.E.D.,1480,5003.689271,Critical
+Education Attained,Less than H.S.,1451,5017.039916,Critical
+Education Attained,Some post-H.S.,1479,5002.971835,Critical
+Household Income,"$100,000-$199,999",414,5020.571642,Critical
+Household Income,"$15,000-$24,999",1473,5012.370954,Critical
+Household Income,"$200,000+",344,5044.535708,Critical
+Household Income,"$25,000-$34,999",1460,5014.725149,Critical
+Household Income,"$35,000-$49,999",1467,5011.091765,Critical
+Household Income,"$50,000+",1056,5003.229572,Critical
+Household Income,"$50,000-$99,999",419,5013.662838,Critical
+Household Income,"Less than $15,000",1468,5022.515185,Critical
+Overall,Overall,1539,5000.990889,Critical
+Race/Ethnicity,"American Indian or Alaskan Native, non-Hispanic",512,5024.932344,Critical
+Race/Ethnicity,"Asian, non-Hispanic",446,5001.604582,Critical
+Race/Ethnicity,"Black, non-Hispanic",1107,4993.467139,Critical
+Race/Ethnicity,Hispanic,1282,4983.92536,Critical
+Race/Ethnicity,"Multiracial, non-Hispanic",1098,5057.583535,Critical
+Race/Ethnicity,"Native Hawaiian or other Pacific Islander, non-Hispanic",57,4924.188034,Critical
+Race/Ethnicity,"Other, non-Hispanic",598,4948.791287,Critical
+Race/Ethnicity,"White, non-Hispanic",1444,5009.241072,Critical
+Sex,Female,1483,5001.035371,Critical
+Sex,Male,1479,5001.341162,Critical

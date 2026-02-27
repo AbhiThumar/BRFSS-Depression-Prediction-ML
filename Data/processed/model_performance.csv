@@ -1,0 +1,5 @@
+Model,Accuracy,F1_Score,Training_Time,Num_Trees,Max_Depth,Performance_Note,Rank
+Random Forest,0.8695,0.8695,15.1,50,10,Best Performer,1
+GBT,0.8674,0.8674,68,50,6,Strong Alternative,2
+Decision Tree,0.8655,0.8655,2.3,0,10,Fast & Competitive,3
+Logistic Regression,0.7401,0.7388,3.1,100,0,Fast but Less Accurate,4

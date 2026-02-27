@@ -1,0 +1,10 @@
+Stage,Time_Seconds,Memory_GB,Status,Stage_Type
+Data Loading,12.5,2.1,Complete,Pipeline stage 1
+Data Cleaning,8.3,1.8,Complete,Pipeline stage 2
+Feature Engineering,11.9,2.4,Complete,Pipeline stage 3
+Random Forest Training,15.1,3.2,Best accuracy,Model training
+GBT Training,68.0,4.1,Slowest,Model training
+Logistic Regression,3.1,1.5,Fastest,Model training
+Decision Tree,2.3,1.2,Very fast,Model training
+Cross Validation,45.2,3.8,Complete,Validation
+Total,166.4,20.1,Summary,Complete pipeline
