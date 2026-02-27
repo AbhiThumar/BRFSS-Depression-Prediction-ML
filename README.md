@@ -310,7 +310,7 @@ A narrative story guides viewers through all four dashboards in sequence:
 - [ ] Integrate with electronic health records for validation
 
 ### Long-term (12-24 months)
-- [ ] Explore causal inference methods to identify真正的 risk factors
+- [ ] Explore causal inference methods to identify critical risk factors
 - [ ] Develop fairness metrics to ensure equitable predictions
 - [ ] Implement automated retraining pipeline with new data
 
