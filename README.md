@@ -93,7 +93,7 @@ Four interactive dashboards are included:
 | **D3: Business Insights** | Risk stratification | Public health officials |
 | **D4: Scalability** | Cost projections | IT managers |
 
-**Tableau Public Link:** [Your Tableau Public URL]
+[**Tableau Public Link**](https://public.tableau.com/app/profile/abhi.thumar/viz/BRFSSDepressionAnalysisAbhiThumar/BRFSSDepressionAnalysis-CompleteStory)
 
 ---
 
@@ -155,7 +155,7 @@ Git
 
 #Installation
 #1.Clone the repository
-git clone https://github.com/yourusername/BRFSS-Depression-Prediction-ML-Tableau.git
+git clone https://github.com/AbhiThumar/BRFSS-Depression-Prediction-ML.git
 cd BRFSS-Depression-Prediction-ML-Tableau
 
 #2. Create a virtual environment (optional but recommended)
